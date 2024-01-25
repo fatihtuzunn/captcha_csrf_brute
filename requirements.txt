@@ -1,0 +1,7 @@
+urllib3
+requests
+beautifulsoup4
+lxml
+Pillow
+pytesseract
+argparse
